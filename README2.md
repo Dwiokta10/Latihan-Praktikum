@@ -26,13 +26,13 @@ while bilangan != 0 :
     bilangan = int(input("masukan bilangan :"))
     
 print (f"bilangan terbesar= {max}")
-
+```
 # output program
-- masukan bilangan : 75
-- masukan bilangan : 120
-- masukan bilangan : 230
-- masukan bilangan : 460
-- masukan bilangan : 600
-- masukan bilangan : 0
-- bilangan terbesar : 600
+masukan bilangan : 75
+masukan bilangan : 120
+masukan bilangan : 230
+masukan bilangan : 460
+masukan bilangan : 600
+masukan bilangan : 0
+bilangan terbesar : 600
 `
