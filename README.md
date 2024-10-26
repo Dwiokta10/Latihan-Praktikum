@@ -16,13 +16,12 @@ Program ini di buat menggunakan bahasa Python dengan fitur:
 ## Cara Kerja Program 1
 Program ini dimulai dengan meminta pengguna untuk memasukkan tiga angka. Setelah angka-angka tersebut dimasukkan, program menggunakan fungsi if (Jika) untuk menentukan angka yang paling besar di antara ketiga angka tersebut. Fungsi if(Jika) secara otomatis membandingkan semua angka dan mengembalikan yang terbesar. Setelah menemukan angka terbesar, program menampilkan hasilnya kepada pengguna dengan kalimat yang jelas. Dengan cara ini, kode menjadi lebih ringkas dan mudah dibaca, tanpa perlu membuat banyak kondisi untuk perbandingan. melakukan pengecekan dengan urutan :
 
-Apakah A > B?
-Jika ya: cek apakah A > C?
-Jika ya: A adalah terbesar
-Jika tidak: C adalah terbesar
-Jika tidak: cek apakah B > C?
-Jika ya: B adalah terbesar
-Jika tidak: C adalah nilai terbesar
+* Apakah A > B?
+* Jika ya: cek apakah A > C? Jika ya: A adalah terbesar
+* Jika tidak: C adalah terbesar
+* Jika tidak: cek apakah B > C?
+* Jika ya: B adalah terbesar
+* Jika tidak: C adalah nilai terbesar
 
 ## Kode Program
 ```python
