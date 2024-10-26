@@ -10,7 +10,7 @@ Program ini dibuat menggunakan bahasa Python dengan fitur:
 - Menampilkan bilangan terbesar yang ditemukan
 
   ## Flowchart Program
-  ![Flowchart](Flowchart.png)
+  ![Flowchart](Flowchat.png)
 
   ## Kode Program
   Python
