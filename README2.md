@@ -28,6 +28,8 @@ while bilangan != 0 :
 print (f"bilangan terbesar= {max}")
 ```
 # output program
+````
+PS C:\Users\acer\Documents\KULIAH\PEMROGRAMAN\Latihan 3> python -u "c:\Users\acer\Documents\KULIAH\PEMROGRAMAN\Latihan 3\code program.py"
 masukan bilangan : 75
 masukan bilangan : 120
 masukan bilangan : 230
