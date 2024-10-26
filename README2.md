@@ -19,16 +19,15 @@ lebih kecil dari, max maka bilangan input kembali sehingga akan menghasilkan bil
   ## Kode Program
   Python
   max = 0
-  Bilangan = int(input("masukan bilangan :"))
-  while Bilangan != 0:
-    if Bilangan > Max :
-      Max = Bilangan
-  Bilangan = int(input("maukan bilangan :"))
-
-  print(f"bilangan terbesar {max}")
+bilangan = int(input("masukan bilangan :"))
+while bilangan != 0 :
+    if bilangan > max :
+        max = bilangan 
+    bilangan = int(input("masukan bilangan :"))
+    
+print (f"bilangan terbesar= {max}")
 
 # output program
-`malah 
 masukan bilangan : 75
 masukan bilangan : 120
 masukan bilangan : 230
@@ -36,5 +35,4 @@ masukan bilangan : 460
 masukan bilangan : 600
 masukan bilangan : 0
 bilangan terbesar : 600
-
 `
