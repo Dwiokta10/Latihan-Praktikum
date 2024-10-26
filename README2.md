@@ -17,7 +17,7 @@ bilangan tidak sama dengan 0 maka cari bilangan lebih dari max dan variabel max 
 lebih kecil dari, max maka bilangan input kembali sehingga akan menghasilkan bilangan terbesar dari operasi tersebut.
 
   ## Kode Program
-  Python
+```python
 max = 0
 bilangan = int(input("masukan bilangan :"))
 while bilangan != 0 :
