@@ -1,6 +1,6 @@
 # Dwi Okta Ramadhani
 # TI.24.A.1
-# Program Untuk Menemukan Bilangan Terbesar dari 3 Variabel
+# Program 1 Untuk Menemukan Bilangan Terbesar dari 3 Variabel
 Program ini dirancang untuk menentukan bilangan terbesar dari tiga angka yang diberikan oleh pengguna. Dengan menggunakan struktur kontrol sederhana, program ini akan membandingkan ketiga bilangan dan mengidentifikasi mana yang memiliki nilai tertinggi.
 
 ## Deskripsi Program
@@ -12,6 +12,17 @@ Program ini di buat menggunakan bahasa Python dengan fitur:
 
 ## Flowchart Programan
 ![Flowchart](FlowchatKesatuaturan.png)
+
+## Cara Kerja Program 1
+Program ini dimulai dengan meminta pengguna untuk memasukkan tiga angka. Setelah angka-angka tersebut dimasukkan, program menggunakan fungsi if (Jika) untuk menentukan angka yang paling besar di antara ketiga angka tersebut. Fungsi if(Jika) secara otomatis membandingkan semua angka dan mengembalikan yang terbesar. Setelah menemukan angka terbesar, program menampilkan hasilnya kepada pengguna dengan kalimat yang jelas. Dengan cara ini, kode menjadi lebih ringkas dan mudah dibaca, tanpa perlu membuat banyak kondisi untuk perbandingan. melakukan pengecekan dengan urutan :
+
+Apakah A > B?
+Jika ya: cek apakah A > C?
+Jika ya: A adalah terbesar
+Jika tidak: C adalah terbesar
+Jika tidak: cek apakah B > C?
+Jika ya: B adalah terbesar
+Jika tidak: C adalah nilai terbesar
 
 ## Kode Program
 ```python
